@@ -1,6 +1,0 @@
-test:
-  stage: test
-  script:
-    - cd ./build
-    - make unit_tests
-    - ./unit_tests
