@@ -1,3 +1,0 @@
-/home/egor/Downloads/CppFolder/image_pro/hse_image_processor_2024/unit_tests/build/CMakeFiles/unit_tests.dir
-/home/egor/Downloads/CppFolder/image_pro/hse_image_processor_2024/unit_tests/build/CMakeFiles/edit_cache.dir
-/home/egor/Downloads/CppFolder/image_pro/hse_image_processor_2024/unit_tests/build/CMakeFiles/rebuild_cache.dir
